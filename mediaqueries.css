@@ -65,6 +65,12 @@
     display: flex;
     flex-wrap: wrap;
   }
+  body{
+    background-image: url(/assets/Focusmonile.png);
+    background-repeat:repeat;
+  
+  }
+  
   .navbar {
     height: 30px;
     width: 100vw;
@@ -137,8 +143,11 @@
     font-size: 0.9rem;
     display: flex;
     justify-content: flex-end;
-
     gap: 4px;
+  }
+  body{
+    background-image: url(/assets/Focusmonile.png);
+    background-repeat:repeat;
   }
   .title {
     margin-top: 9px;
