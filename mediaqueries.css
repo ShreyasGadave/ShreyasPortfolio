@@ -94,6 +94,7 @@
   body{
     background-image: url(assets/Focusmonile.png);
     background-repeat: repeat;
+    background-position: center;
   }
   .section__pic-container img {
     height: 140px;
@@ -132,6 +133,7 @@
 body{
   background-image: url(assets/Focusmonile.png);
   background-repeat: repeat;
+  background-position: center;
 }
   .navbar_1 {
     font-size: 17px;
