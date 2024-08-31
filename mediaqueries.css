@@ -83,7 +83,9 @@
 
     gap: 4px;
   }
-
+  .about{
+    margin-top:310px;
+  }
   .Skills {
     margin-top: 10px;
   }
@@ -102,9 +104,7 @@
     text-align: center;
     padding: 0;
   }
-  .knowme {
-    margin-left: -50px;
-  }
+
   .section__text__p2 {
     font-size: medium;
   }
@@ -162,6 +162,9 @@
     padding: 0;
   }
 
+  .about{
+    margin-top:310px;
+  }
   .section__text__p2 {
     font-size: medium;
     margin-top: 9px;
