@@ -93,12 +93,11 @@
   }
   body{
     background-image: url(assets/Focusmonile.png);
-    background-repeat: repeat;
-    background-size: cover;
+   
   }
   .section__pic-container img {
-    height: 140px;
-    width: 150px;
+    height: 100%;
+   
   }
 
   .section__text {
@@ -132,7 +131,7 @@
   }
 body{
   background-image: url(assets/Focusmonile.png);
-  background-repeat: repeat;
+  
 }
   .navbar_1 {
     font-size: 17px;
@@ -157,8 +156,8 @@ body{
   }
 
   .section__pic-container img {
-    height: 180px;
-    width: 190px;
+    height: 100%;
+   
   }
 
   .section__text {
