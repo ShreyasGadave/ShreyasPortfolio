@@ -44,7 +44,7 @@
     margin: 90px;
   }
   .knowme {
-    margin-top: 40px;
+    margin-top: 10px;
   }
   .section__text {
     margin-top: 40px;
@@ -75,10 +75,7 @@
   .navbar_1 {
     font-size: 17px;
   }
-  body{
-    background-image: url(/assets/Focusmonile.png);
-    background-repeat:repeat;
-  }
+
   .navbar_2 {
     font-size: 12px;
     display: flex;
@@ -129,10 +126,7 @@
     box-sizing: border-box;
     padding: 10px;
   }
-  body{
-    background-image: url(/assets/Focusmonile.png);
-    background-repeat:repeat;
-  }
+
   .navbar_1 {
     font-size: 17px;
   }
