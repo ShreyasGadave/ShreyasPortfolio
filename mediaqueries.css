@@ -68,7 +68,6 @@
   body{
     background-image: url(/assets/Focusmonile.png);
     background-repeat:repeat;
-  
   }
   
   .navbar {
@@ -89,9 +88,9 @@
 
     gap: 4px;
   }
-  .about{
+  /* .about{
     margin-top:310px;
-  }
+  } */
   .Skills {
     margin-top: 10px;
   }
