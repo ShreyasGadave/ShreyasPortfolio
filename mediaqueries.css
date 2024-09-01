@@ -99,7 +99,9 @@
     height: 100%;
    
   }
-
+  .knowme{
+    margin-top:250px;
+  }
   .section__text {
     margin-top: -70px;
     text-align: center;
@@ -118,7 +120,7 @@
   }
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 460px) {
   #profile {
     display: flex;
     flex-wrap: wrap;
@@ -136,7 +138,9 @@ body{
   .navbar_1 {
     font-size: 17px;
   }
-
+.knowme{
+    margin-top:250px;
+  }
   .navbar_2 {
     font-size: 0.9rem;
     display: flex;

@@ -21,6 +21,7 @@ body {
   display: flex;
   justify-content: space-between;
   color: white;
+ 
   align-items: center;
   padding-left: 20px;
   padding-right: 20px;
@@ -135,6 +136,7 @@ section {
   border: 1.2px solid white;
   border-radius: 32px;
   margin-top: 20px;
+  backdrop-filter: blur(10px);
 }
 
 .box_1:hover {
@@ -239,7 +241,6 @@ p {
 
 .title_img3 {
   margin-top: 49px;
-  /* width: 100%; */
   height: 100%;
   margin-left: 10px;
 }
